@@ -1,24 +1,19 @@
-# README
+# Basic Restful Api On Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Context
+ Mock restful api on rails by following a youtube tutorial but using PostgreSQL
 
-Things you may want to cover:
+## How to run
 
-* Ruby version
+* git clone and navigate to myarticles
+* run server
+> $ rails s  
+* run app: run postman chrome tool ( more details in the video)
 
-* System dependencies
+## Reference
+Simple Ruby on Rails 5 REST API From Scratch
 
-* Configuration
+[Youtube link](https://www.youtube.com/watch?v=QojnRc7SS9o)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ 
